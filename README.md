@@ -1,4 +1,4 @@
-# V2ray免费节点 | 5月16日18.2M/S|免费Shadowrocket/SSR/Clash/V2ray节点订阅分享  更新时间 2025-05-16 13:55:32
+# V2ray免费节点 | 5月16日18.7M/S|免费Shadowrocket/SSR/V2ray/Clash节点订阅分享  更新时间 2025-05-16 14:00:42
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://v2raymianfei.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
