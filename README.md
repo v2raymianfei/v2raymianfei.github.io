@@ -1,4 +1,4 @@
-# V2ray免费节点 | 8月15日21M/S|免费Clash/V2ray/Shadowrocket/SSR节点订阅分享  更新时间 2025-08-15 09:57:10
+# V2ray免费节点 | 8月27日18.3M/S|免费Shadowrocket/V2ray/Clash/SSR节点订阅分享  更新时间 2025-08-27 10:05:22
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://v2raymianfei.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://v2raymianfei.github.io/uploads/2025/08/0-20250815.yaml
-- https://v2raymianfei.github.io/uploads/2025/08/1-20250815.yaml
-- https://v2raymianfei.github.io/uploads/2025/08/2-20250815.yaml
-- https://v2raymianfei.github.io/uploads/2025/08/3-20250815.yaml
-- https://v2raymianfei.github.io/uploads/2025/08/4-20250815.yaml
+- https://v2raymianfei.github.io/uploads/2025/08/0-20250827.yaml
+- https://v2raymianfei.github.io/uploads/2025/08/1-20250827.yaml
+- https://v2raymianfei.github.io/uploads/2025/08/2-20250827.yaml
+- https://v2raymianfei.github.io/uploads/2025/08/3-20250827.yaml
+- https://v2raymianfei.github.io/uploads/2025/08/4-20250827.yaml
 
 ### V2ray订阅链接
 
-- https://v2raymianfei.github.io/uploads/2025/08/0-20250815.txt
-- https://v2raymianfei.github.io/uploads/2025/08/1-20250815.txt
-- https://v2raymianfei.github.io/uploads/2025/08/2-20250815.txt
-- https://v2raymianfei.github.io/uploads/2025/08/3-20250815.txt
-- https://v2raymianfei.github.io/uploads/2025/08/4-20250815.txt
+- https://v2raymianfei.github.io/uploads/2025/08/0-20250827.txt
+- https://v2raymianfei.github.io/uploads/2025/08/1-20250827.txt
+- https://v2raymianfei.github.io/uploads/2025/08/2-20250827.txt
+- https://v2raymianfei.github.io/uploads/2025/08/3-20250827.txt
+- https://v2raymianfei.github.io/uploads/2025/08/4-20250827.txt
 
 ### Sing-box订阅链接
 
-- https://v2raymianfei.github.io/uploads/2025/08/20250815.json
+- https://v2raymianfei.github.io/uploads/2025/08/20250827.json
 
 ## 更多clash节点订阅 ：
 
