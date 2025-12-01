@@ -408,37 +408,23 @@ systemctl </span><span><span class="hljs-built_in">enable</span></span><span> v2
 <div class="clearfix"></div>
 <div class="col-md-12 mt-5">
         <p>上一个：<a href="/free-nodes/2025-11-21-clash-v2ray-ss-ssr.htm">V2ray免费节点 | 11月21日18.1M/S|免费V2ray节点/Clash节点/Shadowrocket节点/SSR节点/Singbox节点节点订阅分享</a></p>
+        <p>下一个：<a href="/free-nodes/2025-11-23-free-clash-subscribe.htm">V2ray免费节点 | 11月23日21.3M/S|免费SSR节点/Shadowrocket节点/Clash节点/V2ray节点/Singbox节点节点订阅分享</a></p>
     </div>
 <h4>FAQ</h4>
-<div class="panel panel-default">
-    <div class="panel-heading"><h5>V2RayN 的作用是什么？</h5></div>
-    <div class="panel-body">
-        V2RayN 是 V2Ray 的 Windows 图形客户端，提供节点管理、订阅导入、日志查看等功能。它支持多协议配置，并可与系统代理集成，是 Windows 用户最常用的代理管理工具之一。<hr />    </div>
-</div>
-<div class="panel panel-default">
-    <div class="panel-heading"><h5>Nekoray 如何导入 V2Ray 节点？</h5></div>
-    <div class="panel-body">
-        打开 Nekoray 客户端后，点击“导入配置”，选择 V2Ray 或 Clash 类型的订阅链接。程序会自动解析节点列表，用户可一键连接或进行延迟测试。<hr />    </div>
-</div>
 <div class="panel panel-default">
     <div class="panel-heading"><h5>Surfboard 的规则文件如何支持广告屏蔽？</h5></div>
     <div class="panel-body">
         规则文件可添加广告域名或 URL 列表，将请求重定向或阻断。结合策略组和自动更新，Surfboard 可实现全局广告屏蔽，提高浏览体验并节省带宽。<hr />    </div>
 </div>
 <div class="panel panel-default">
-    <div class="panel-heading"><h5>SSR 节点延迟高、丢包严重，常见排查步骤有哪些？</h5></div>
+    <div class="panel-heading"><h5>Nekoray 如何实现节点延迟自动切换？</h5></div>
     <div class="panel-body">
-        先用 ping 和 traceroute 检查到服务器的延迟与路由跳数；再通过测速工具测带宽并尝试更换不同出站端口或混淆方式；若仍然不稳，考虑更换节点或联系客服查看服务端链路质量。<hr />    </div>
+        Nekoray 支持配置策略组（Policy Group），用户可设置 URL 测试或周期检测机制，根据延迟自动选择最优节点。此功能能提升稳定性，尤其适合多线路机场订阅用户。<hr />    </div>
 </div>
 <div class="panel panel-default">
-    <div class="panel-heading"><h5>Shadowrocket 节点测速功能如何优化连接？</h5></div>
+    <div class="panel-heading"><h5>Nekoray 如何导入 V2Ray 节点？</h5></div>
     <div class="panel-body">
-        Shadowrocket 定期测速节点延迟和丢包率，并结合策略组自动切换到最佳节点。保证网页、视频和游戏流量通过最优路径，提高访问速度和连接稳定性。<hr />    </div>
-</div>
-<div class="panel panel-default">
-    <div class="panel-heading"><h5>如何在 Clash Premium 中使用 TUN 模式加速游戏？</h5></div>
-    <div class="panel-body">
-        Clash Premium 版本支持系统级 TUN 模式，可将所有 UDP 流量转发至代理节点。启用该模式后需管理员权限，并在配置文件中添加 dns 与 tun 模块，选择低延迟节点即可实现游戏加速。<hr />    </div>
+        打开 Nekoray 客户端后，点击“导入配置”，选择 V2Ray 或 Clash 类型的订阅链接。程序会自动解析节点列表，用户可一键连接或进行延迟测试。<hr />    </div>
 </div>
 <div class="panel panel-default">
     <div class="panel-heading"><h5>V2RayN 的 GUI 界面如何导出节点？</h5></div>
@@ -451,14 +437,29 @@ systemctl </span><span><span class="hljs-built_in">enable</span></span><span> v2
         Reality 采用非传统 TLS 流量伪装方式，通过模拟目标网站证书与握手特征来隐藏代理特征，相较于普通 VLess + TLS 更难被识别。它还具备更高的性能与更少的明文特征，适合高安全需求环境。<hr />    </div>
 </div>
 <div class="panel panel-default">
-    <div class="panel-heading"><h5>Nekoray 如何实现节点延迟自动切换？</h5></div>
+    <div class="panel-heading"><h5>如何在 Clash Premium 中使用 TUN 模式加速游戏？</h5></div>
     <div class="panel-body">
-        Nekoray 支持配置策略组（Policy Group），用户可设置 URL 测试或周期检测机制，根据延迟自动选择最优节点。此功能能提升稳定性，尤其适合多线路机场订阅用户。<hr />    </div>
+        Clash Premium 版本支持系统级 TUN 模式，可将所有 UDP 流量转发至代理节点。启用该模式后需管理员权限，并在配置文件中添加 dns 与 tun 模块，选择低延迟节点即可实现游戏加速。<hr />    </div>
 </div>
 <div class="panel panel-default">
     <div class="panel-heading"><h5>Trojan 的伪装域名如何选择更安全？</h5></div>
     <div class="panel-body">
-        伪装域名应选择真实可访问的网站，且证书有效。这样 Trojan 流量能伪装成正常 HTTPS 请求，减少被封锁或检测的风险，提高节点安全性和稳定性。    </div>
+        伪装域名应选择真实可访问的网站，且证书有效。这样 Trojan 流量能伪装成正常 HTTPS 请求，减少被封锁或检测的风险，提高节点安全性和稳定性。<hr />    </div>
+</div>
+<div class="panel panel-default">
+    <div class="panel-heading"><h5>V2RayN 的作用是什么？</h5></div>
+    <div class="panel-body">
+        V2RayN 是 V2Ray 的 Windows 图形客户端，提供节点管理、订阅导入、日志查看等功能。它支持多协议配置，并可与系统代理集成，是 Windows 用户最常用的代理管理工具之一。<hr />    </div>
+</div>
+<div class="panel panel-default">
+    <div class="panel-heading"><h5>Shadowrocket 节点测速功能如何优化连接？</h5></div>
+    <div class="panel-body">
+        Shadowrocket 定期测速节点延迟和丢包率，并结合策略组自动切换到最佳节点。保证网页、视频和游戏流量通过最优路径，提高访问速度和连接稳定性。<hr />    </div>
+</div>
+<div class="panel panel-default">
+    <div class="panel-heading"><h5>SSR 节点延迟高、丢包严重，常见排查步骤有哪些？</h5></div>
+    <div class="panel-body">
+        先用 ping 和 traceroute 检查到服务器的延迟与路由跳数；再通过测速工具测带宽并尝试更换不同出站端口或混淆方式；若仍然不稳，考虑更换节点或联系客服查看服务端链路质量。    </div>
 </div>
 <div class="panel panel-default mt-5">
     <div class="panel-heading">
@@ -487,16 +488,16 @@ systemctl </span><span><span class="hljs-built_in">enable</span></span><span> v2
     </div>
     <div class="panel-body">
         <ul class="p-0 x-0" style="list-style: none;margin: 0;padding: 0;">
+                        <li class="py-2"><a href="/free-nodes/2025-11-5-free-v2ray-subscribe.htm" title="V2ray免费节点 | 11月5日19.2M/S|免费V2ray节点/Clash节点/Shadowrocket节点/Singbox节点/SSR节点节点订阅分享">V2ray免费节点 | 11月5日19.2M/S|免费V2ray节点/Clash节点/Shadowrocket节点/Singbox节点/SSR节点节点订阅分享</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-11-8-free-ssr-node.htm" title="V2ray免费节点 | 11月8日18.2M/S|免费Clash节点/V2ray节点/SSR节点/Shadowrocket节点/Singbox节点节点订阅分享">V2ray免费节点 | 11月8日18.2M/S|免费Clash节点/V2ray节点/SSR节点/Shadowrocket节点/Singbox节点节点订阅分享</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-11-28-free-v2ray-subscribe.htm" title="V2ray免费节点 | 11月28日21.7M/S|免费Singbox节点/Clash节点/Shadowrocket节点/SSR节点/V2ray节点节点订阅分享">V2ray免费节点 | 11月28日21.7M/S|免费Singbox节点/Clash节点/Shadowrocket节点/SSR节点/V2ray节点节点订阅分享</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-11-7-free-clash.htm" title="V2ray免费节点 | 11月7日21.2M/S|免费SSR节点/Clash节点/Singbox节点/V2ray节点/Shadowrocket节点节点订阅分享">V2ray免费节点 | 11月7日21.2M/S|免费SSR节点/Clash节点/Singbox节点/V2ray节点/Shadowrocket节点节点订阅分享</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-11-12-free-v2ray.htm" title="V2ray免费节点 | 11月12日18.1M/S|免费SSR节点/V2ray节点/Clash节点/Singbox节点/Shadowrocket节点节点订阅分享">V2ray免费节点 | 11月12日18.1M/S|免费SSR节点/V2ray节点/Clash节点/Singbox节点/Shadowrocket节点节点订阅分享</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-10-7-free-v2ray-subscribe.htm" title="V2ray免费节点 | 10月7日18M/S|免费Shadowrocket节点/Clash节点/Singbox节点/SSR节点/V2ray节点节点订阅分享">V2ray免费节点 | 10月7日18M/S|免费Shadowrocket节点/Clash节点/Singbox节点/SSR节点/V2ray节点节点订阅分享</a></li>
                         <li class="py-2"><a href="/free-nodes/2025-11-20-clash-v2ray-ss-ssr.htm" title="V2ray免费节点 | 11月20日18.8M/S|免费Singbox节点/Shadowrocket节点/SSR节点/V2ray节点/Clash节点节点订阅分享">V2ray免费节点 | 11月20日18.8M/S|免费Singbox节点/Shadowrocket节点/SSR节点/V2ray节点/Clash节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-10-24-free-ssr-subscribe.htm" title="V2ray免费节点 | 10月24日18.8M/S|免费SSR节点/V2ray节点/Shadowrocket节点/Singbox节点/Clash节点节点订阅分享">V2ray免费节点 | 10月24日18.8M/S|免费SSR节点/V2ray节点/Shadowrocket节点/Singbox节点/Clash节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-10-14-free-clash.htm" title="V2ray免费节点 | 10月14日22.9M/S|免费Singbox节点/Clash节点/V2ray节点/Shadowrocket节点/SSR节点节点订阅分享">V2ray免费节点 | 10月14日22.9M/S|免费Singbox节点/Clash节点/V2ray节点/Shadowrocket节点/SSR节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-11-1-free-shadowrocket-node.htm" title="V2ray免费节点 | 11月1日19.9M/S|免费SSR节点/Singbox节点/Clash节点/Shadowrocket节点/V2ray节点节点订阅分享">V2ray免费节点 | 11月1日19.9M/S|免费SSR节点/Singbox节点/Clash节点/Shadowrocket节点/V2ray节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-10-4-free-ssr-subscribe.htm" title="V2ray免费节点 | 10月4日20.2M/S|免费Singbox节点/Shadowrocket节点/V2ray节点/Clash节点/SSR节点节点订阅分享">V2ray免费节点 | 10月4日20.2M/S|免费Singbox节点/Shadowrocket节点/V2ray节点/Clash节点/SSR节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-10-10-node-share-links.htm" title="V2ray免费节点 | 10月10日22.2M/S|免费Clash节点/SSR节点/V2ray节点/Shadowrocket节点/Singbox节点节点订阅分享">V2ray免费节点 | 10月10日22.2M/S|免费Clash节点/SSR节点/V2ray节点/Shadowrocket节点/Singbox节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-10-25-node-share.htm" title="V2ray免费节点 | 10月25日20.1M/S|免费Shadowrocket节点/Singbox节点/SSR节点/V2ray节点/Clash节点节点订阅分享">V2ray免费节点 | 10月25日20.1M/S|免费Shadowrocket节点/Singbox节点/SSR节点/V2ray节点/Clash节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-10-20-free-shadowrocket-node.htm" title="V2ray免费节点 | 10月20日19.5M/S|免费Clash节点/Singbox节点/Shadowrocket节点/SSR节点/V2ray节点节点订阅分享">V2ray免费节点 | 10月20日19.5M/S|免费Clash节点/Singbox节点/Shadowrocket节点/SSR节点/V2ray节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-10-13-node-share.htm" title="V2ray免费节点 | 10月13日18.3M/S|免费Singbox节点/SSR节点/Clash节点/V2ray节点/Shadowrocket节点节点订阅分享">V2ray免费节点 | 10月13日18.3M/S|免费Singbox节点/SSR节点/Clash节点/V2ray节点/Shadowrocket节点节点订阅分享</a></li>
-                        <li class="py-2"><a href="/free-nodes/2025-10-31-node-share-links.htm" title="V2ray免费节点 | 10月31日22.6M/S|免费V2ray节点/Singbox节点/Clash节点/Shadowrocket节点/SSR节点节点订阅分享">V2ray免费节点 | 10月31日22.6M/S|免费V2ray节点/Singbox节点/Clash节点/Shadowrocket节点/SSR节点节点订阅分享</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-10-15-free-node-subscribe-links.htm" title="V2ray免费节点 | 10月15日22.5M/S|免费Clash节点/Singbox节点/Shadowrocket节点/SSR节点/V2ray节点节点订阅分享">V2ray免费节点 | 10月15日22.5M/S|免费Clash节点/Singbox节点/Shadowrocket节点/SSR节点/V2ray节点节点订阅分享</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-10-5-free-v2ray.htm" title="V2ray免费节点 | 10月5日20.8M/S|免费V2ray节点/Shadowrocket节点/Clash节点/SSR节点/Singbox节点节点订阅分享">V2ray免费节点 | 10月5日20.8M/S|免费V2ray节点/Shadowrocket节点/Clash节点/SSR节点/Singbox节点节点订阅分享</a></li>
+                        <li class="py-2"><a href="/free-nodes/2025-10-22-free-subscribe-node.htm" title="V2ray免费节点 | 10月22日18.4M/S|免费Shadowrocket节点/Singbox节点/SSR节点/V2ray节点/Clash节点节点订阅分享">V2ray免费节点 | 10月22日18.4M/S|免费Shadowrocket节点/Singbox节点/SSR节点/V2ray节点/Clash节点节点订阅分享</a></li>
                     </ul>
     </div>
 </div>
@@ -508,7 +509,10 @@ systemctl </span><span><span class="hljs-built_in">enable</span></span><span> v2
     <div class="panel-body">
         <ul class="p-0 x-0" style="list-style: none;margin: 0;padding: 0;">
                         <li class="py-2">
-                <h4><span class="badge" style="float: right;">21</span> <a href="/date/2025-11/" title="2025-11 归档">2025-11</a></h4>
+                <h4><span class="badge" style="float: right;">1</span> <a href="/date/2025-12/" title="2025-12 归档">2025-12</a></h4>
+            </li>
+                        <li class="py-2">
+                <h4><span class="badge" style="float: right;">27</span> <a href="/date/2025-11/" title="2025-11 归档">2025-11</a></h4>
             </li>
                         <li class="py-2">
                 <h4><span class="badge" style="float: right;">26</span> <a href="/date/2025-10/" title="2025-10 归档">2025-10</a></h4>
