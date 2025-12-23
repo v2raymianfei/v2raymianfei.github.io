@@ -1,4 +1,4 @@
-# V2ray免费节点 | 12月16日19.9M/S|免费Shadowrocket节点/V2ray节点/Singbox节点/Clash节点/SSR节点节点订阅分享  更新时间 2025-12-16 09:43:01
+# V2ray免费节点 | 12月23日18.3M/S|免费Singbox节点/Shadowrocket节点/V2ray节点/Clash节点/SSR节点节点订阅分享  更新时间 2025-12-23 10:16:14
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://v2raymianfei.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://v2raymianfei.github.io/uploads/2025/12/0-20251216.yaml
-- https://v2raymianfei.github.io/uploads/2025/12/1-20251216.yaml
-- https://v2raymianfei.github.io/uploads/2025/12/2-20251216.yaml
-- https://v2raymianfei.github.io/uploads/2025/12/3-20251216.yaml
-- https://v2raymianfei.github.io/uploads/2025/12/4-20251216.yaml
+- https://v2raymianfei.github.io/uploads/2025/12/0-20251223.yaml
+- https://v2raymianfei.github.io/uploads/2025/12/1-20251223.yaml
+- https://v2raymianfei.github.io/uploads/2025/12/2-20251223.yaml
+- https://v2raymianfei.github.io/uploads/2025/12/3-20251223.yaml
+- https://v2raymianfei.github.io/uploads/2025/12/4-20251223.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://v2raymianfei.github.io/uploads/2025/12/0-20251216.txt
-- https://v2raymianfei.github.io/uploads/2025/12/1-20251216.txt
-- https://v2raymianfei.github.io/uploads/2025/12/2-20251216.txt
-- https://v2raymianfei.github.io/uploads/2025/12/3-20251216.txt
-- https://v2raymianfei.github.io/uploads/2025/12/4-20251216.txt
+- https://v2raymianfei.github.io/uploads/2025/12/0-20251223.txt
+- https://v2raymianfei.github.io/uploads/2025/12/1-20251223.txt
+- https://v2raymianfei.github.io/uploads/2025/12/2-20251223.txt
+- https://v2raymianfei.github.io/uploads/2025/12/3-20251223.txt
+- https://v2raymianfei.github.io/uploads/2025/12/4-20251223.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://v2raymianfei.github.io/uploads/2025/12/20251216.json
+- https://v2raymianfei.github.io/uploads/2025/12/20251223.json
 
 ## 更多Clash节点订阅 ：
 
