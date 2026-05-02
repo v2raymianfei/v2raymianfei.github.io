@@ -1,4 +1,4 @@
-# V2ray免费节点 | 4月25日21.2M/S|免费Clash节点/SSR节点/Shadowrocket节点/V2ray节点/Singbox节点节点订阅分享  更新时间 2026-04-25 09:58:37
+# V2ray免费节点 | 5月2日19M/S|免费Singbox节点/SSR节点/V2ray节点/Shadowrocket节点/Clash节点节点订阅分享  更新时间 2026-05-02 09:32:51
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://v2raymianfei.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://v2raymianfei.github.io/uploads/2026/04/0-20260425.yaml
-- https://v2raymianfei.github.io/uploads/2026/04/1-20260425.yaml
-- https://v2raymianfei.github.io/uploads/2026/04/2-20260425.yaml
-- https://v2raymianfei.github.io/uploads/2026/04/3-20260425.yaml
-- https://v2raymianfei.github.io/uploads/2026/04/4-20260425.yaml
+- https://v2raymianfei.github.io/uploads/2026/05/0-20260502.yaml
+- https://v2raymianfei.github.io/uploads/2026/05/1-20260502.yaml
+- https://v2raymianfei.github.io/uploads/2026/05/2-20260502.yaml
+- https://v2raymianfei.github.io/uploads/2026/05/3-20260502.yaml
+- https://v2raymianfei.github.io/uploads/2026/05/4-20260502.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://v2raymianfei.github.io/uploads/2026/04/0-20260425.txt
-- https://v2raymianfei.github.io/uploads/2026/04/1-20260425.txt
-- https://v2raymianfei.github.io/uploads/2026/04/2-20260425.txt
-- https://v2raymianfei.github.io/uploads/2026/04/3-20260425.txt
-- https://v2raymianfei.github.io/uploads/2026/04/4-20260425.txt
+- https://v2raymianfei.github.io/uploads/2026/05/0-20260502.txt
+- https://v2raymianfei.github.io/uploads/2026/05/1-20260502.txt
+- https://v2raymianfei.github.io/uploads/2026/05/2-20260502.txt
+- https://v2raymianfei.github.io/uploads/2026/05/3-20260502.txt
+- https://v2raymianfei.github.io/uploads/2026/05/4-20260502.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://v2raymianfei.github.io/uploads/2026/04/20260425.json
+- https://v2raymianfei.github.io/uploads/2026/05/20260502.json
 
 ## 更多Clash节点订阅 ：
 
